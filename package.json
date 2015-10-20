@@ -1,0 +1,16 @@
+{
+  "name": "livereload-gulp-php",
+  "version": "1.0.0",
+  "description": "Livereload com Gulp e PHP\r ==================",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Adriano Avelino",
+  "license": "ISC",
+  "devDependencies": {
+    "browser-sync": "^2.9.11",
+    "gulp": "^3.9.0",
+    "gulp-connect-php": "0.0.5"
+  }
+}
