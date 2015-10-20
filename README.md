@@ -7,25 +7,24 @@ Dependências:
 - gulp global
 
 Clone o repositório:    
-```
-git clone https://github.com/adrianoavelino/livereload-gulp-php.git
+```sh
+$ git clone https://github.com/adrianoavelino/livereload-gulp-php.git
 ```
 Entre no repositório:
-```
-cd livereload-gulp-php
+```sh
+$ cd livereload-gulp-php
 ```
 
 Instale as dependências:
-```
-npm install
+```sh
+$ npm install
 
 ```
 Instale o gulp globalmente:
-```
-npm install -g gulp
+```sh
+$ npm install -g gulp
 ```
 Inicie o gulp
+```sh
+$ gulp
 ```
-gulp
-```
-
