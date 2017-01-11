@@ -6,6 +6,11 @@ Dependências:
 - git
 - gulp global
 
+Instale o gulp globalmente:
+```sh
+$ npm install --global gulp-cli
+```
+
 Clone o repositório:    
 ```sh
 $ git clone https://github.com/adrianoavelino/livereload-gulp-php.git
